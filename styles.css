@@ -21,7 +21,7 @@
     font-size: 3rem;
     margin-bottom: 20px;
 }
-.gallary{
+.gallery{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
